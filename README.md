@@ -28,7 +28,7 @@ Right Player:
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/pong-pro.git  
+git clone https://github.com/aypmix-alt/pong-pro.git
 cd pong-pro  
 
 Create virtual environment:
